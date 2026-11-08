@@ -5,6 +5,7 @@ CXXFLAGS := -std=c++17 -O2 -Wall -Wextra \
             -municode -DUNICODE -D_UNICODE
 
 LDFLAGS := -mwindows \
+           -municode \
            -lcomdlg32 \
            -lgdi32 \
            -luser32 \

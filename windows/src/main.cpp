@@ -1,5 +1,3 @@
-#define UNICODE
-#define _UNICODE
 #include <windows.h>
 #include <commdlg.h>
 #include <string>
@@ -7,9 +5,8 @@
 #include <thread>
 #include <mutex>
 #include <sstream>
-#include <algorithm>\n#include <cmath>
-
-#pragma comment(lib, "Comdlg32.lib")
+#include <algorithm>
+#include <cmath>
 
 static const COLORREF BG = RGB(4, 10, 18);
 static const COLORREF PANEL = RGB(8, 20, 31);
