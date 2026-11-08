@@ -7,7 +7,8 @@
 #include <thread>
 #include <mutex>
 #include <sstream>
-#include <algorithm>\n#include <cmath>
+#include <algorithm>
+#include <cmath>
 
 #pragma comment(lib, "Comdlg32.lib")
 
