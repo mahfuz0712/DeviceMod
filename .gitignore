@@ -1,0 +1,7 @@
+.gradle/
+**/build/
+dist/*
+!dist/.gitkeep
+*.iml
+.idea/
+.vscode/

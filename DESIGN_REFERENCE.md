@@ -1,0 +1,1 @@
+DeviceMod UI is based on the supplied Calculator project's visual language: Cyan/Amber palettes, #040A12 navy background, #08141F panels, monospace text, cut-corner HUD panels, thin neon borders, grid and radar motion accents.
